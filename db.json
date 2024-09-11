@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 3, "name": "venugopal", "gender": "male" },
+    { "name": "nitin", "gender": "male", "id": 4 },
+    { "name": "Chandan", "gender": "Male", "id": 36 }
+  ],
+  "todos": [
+    { "title": "Learn Node.js", "Status": false, "id": 373 },
+    { "name": "Learn Javascript", "Status": false, "id": 18 }
+  ]
+}
