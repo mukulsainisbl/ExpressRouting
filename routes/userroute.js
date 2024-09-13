@@ -3,6 +3,8 @@ const express = require("express");
 const userRoute = express();
 const fs = require("fs");
 
+
+
 userRoute.get("/all", (req, res) => {
   let data = JSON.parse(fs.readFileSync("db.json", "utf-8"));
   res.json({ users: data.users });

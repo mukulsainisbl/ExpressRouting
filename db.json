@@ -6,6 +6,7 @@
   ],
   "todos": [
     { "title": "Learn Node.js", "Status": false, "id": 373 },
-    { "name": "Learn Javascript", "Status": false, "id": 18 }
+    { "name": "Learn Javascript", "Status": false, "id": 18 },
+    { "name": "Learn CSS", "Status": false, "id": 937 }
   ]
 }
